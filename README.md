@@ -11,29 +11,29 @@ A contact manager complete backenend application.
 
 
 **Properties**
-*REST API 
-*CRUD operations
-*User Authorization using JWT Token
+* REST API 
+* CRUD operations
+* User Authorization using JWT Token
 
 **STEPS INVOLVED**
-*Express Project Setup
-*Create Express Server
-*Thunder Client Setup
-*Express Router Setup
-*Error Handling / Async Handling
-*Express Middleware
-*MongoDB Setup
-*Mongoose Setup
-*CRUD API
-*User Authentication
-*Registration & Login API
-*Controllers & DB Operations
-*Password Hashing & Comparing
-*Sign/ verity JWT Token
-*Handle Relationships
-*Protected Routes
-*User Authorization
-*API Testing
+* Express Project Setup
+* Create Express Server
+* Thunder Client Setup
+* Express Router Setup
+* Error Handling / Async Handling
+* Express Middleware
+* MongoDB Setup
+* Mongoose Setup
+* CRUD API
+* User Authentication
+* Registration & Login API
+* Controllers & DB Operations
+* Password Hashing & Comparing
+* Sign/ verity JWT Token
+* Handle Relationships
+* Protected Routes
+* User Authorization
+* API Testing
 
 **REST API CONVENTION**
 Crud Actions  | HTTP Methods | Endpoints
